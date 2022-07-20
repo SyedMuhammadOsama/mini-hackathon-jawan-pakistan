@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848608299624",
+    "project_id": "hackathon1-38c85",
+    "storage_bucket": "hackathon1-38c85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848608299624:android:2c779429e339561b3349dd",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848608299624-mqb90mo29q12einvm1q0g8ie8j6uf0cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1auM8WRPQ2tFeA4FQgxqr3VJx6h682-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848608299624-mqb90mo29q12einvm1q0g8ie8j6uf0cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
